@@ -1,0 +1,93 @@
+[
+  {
+    "id": "00_overzicht",
+    "actions": [
+      "spin"
+    ],
+    "vo": "Dit is de Star Wars Xperience. Een echte ruimte, waar je van zaal naar zaal loopt, en zelf het verhaal beleeft. Van bovenaf zie je de hele route. Kom, we lopen mee."
+  },
+  {
+    "id": "01_start",
+    "actions": [
+      "walk"
+    ],
+    "vo": "Je loopt binnen. Op het grote scherm start de intro, en een stem neemt je mee naar een sterrenstelsel, ver, ver hier vandaan."
+  },
+  {
+    "id": "02_keuze",
+    "actions": [
+      "Verder"
+    ],
+    "vo": "Dan sta je in de keuzezaal. Links de deur van de Jedi, rechts die van de Sith. Hier maak jij de eerste keuze. Welke kant kies jij?"
+  },
+  {
+    "id": "03_jedi_temple",
+    "actions": [
+      "Jedi"
+    ],
+    "vo": "Kies je de Jedi, dan stap je de Jedi Temple binnen. Tijdens je training ontdek je dat de Force sterk is in jou."
+  },
+  {
+    "id": "04_kyber",
+    "actions": [
+      "Verder"
+    ],
+    "vo": "Na een korte wandeling sta je voor je kyber kristal. Niet jij kiest het kristal. Het kristal kiest jou."
+  },
+  {
+    "id": "05_lichtsaber",
+    "actions": [
+      "Verder"
+    ],
+    "vo": "In de werkplaats bouw je met dat kristal je eigen lichtsaber."
+  },
+  {
+    "id": "06_gevecht_jedi",
+    "actions": [
+      "Verder"
+    ],
+    "vo": "Je blauwe kling ontsteekt. In de arena volgt het gevecht, en laat je zien wat je hebt geleerd."
+  },
+  {
+    "id": "07_naar_buiten",
+    "actions": [
+      "Verder"
+    ],
+    "vo": "Na het gevecht loop je naar buiten. Maar wat als je in de keuzezaal de andere deur had genomen?"
+  },
+  {
+    "id": "08_sith",
+    "actions": [
+      "Kies de andere kant",
+      "hold:1.5",
+      "Sith",
+      "hold:1.2",
+      "Verder",
+      "hold:1.2",
+      "Verder"
+    ],
+    "vo": "Dan word je opgeleid door de Sith. Je traint in de Sith Temple, krijgt je eigen rode saber, en vecht in de arena aan de duistere kant. Dezelfde ruimtes, een heel ander verhaal."
+  },
+  {
+    "id": "09_tatooine",
+    "actions": [
+      "Verder"
+    ],
+    "vo": "Beide paden komen samen op het open plein van Tatooine."
+  },
+  {
+    "id": "10_plein",
+    "actions": [
+      "Verken de kaart van het plein"
+    ],
+    "vo": "Vanaf hier ligt de rest van de Xperience open. Een bounty missie bij Jabba de Hutt, een show, echte lichtsabergevechten, karten, een museum, restaurants, en nog veel meer."
+  },
+  {
+    "id": "11_slot",
+    "actions": [
+      "reset",
+      "spin"
+    ],
+    "vo": "Star Wars Xperience. Kies je kant, en stap zelf het verhaal in."
+  }
+]
