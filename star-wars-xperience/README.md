@@ -9,6 +9,7 @@ voelt en verloopt. Het beeld komt uit onze eigen holomap van de route
 | `1_verhaallijn.md` | Stap 1: begin, midden en eind van de ervaring |
 | `star_wars_xperience_schets.mp4` | Stap 2: de gemonteerde video met audio, voor Portflow |
 | `3_terugkijken.md` | Stap 3: wat wordt duidelijk en wat ontbreekt nog |
+| `star_wars_xperience_formatschets.pdf` | Alles op twee A4, met een vak voor de QR code naar de video |
 | `scripts/scenes.json` | Voice over tekst en bediening van de holomap per scene |
 | `scripts/stem.py` | Maakt de voice over per scene |
 | `scripts/opname.js` | Neemt de holomap rondleiding frame voor frame op |
